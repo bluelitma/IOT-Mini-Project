@@ -1,5 +1,5 @@
-# IOT-Mini-Project
-## 스마트 우천 알리미
+# IOT-Mini-Project - 스마트 우천 알리미
+
 ## 프로젝트 목적
 간단한 우천 알리미 IOT 시스템 구현
 
